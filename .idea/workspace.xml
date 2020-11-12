@@ -19,19 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="749464aa-709d-49b5-8166-fa70696cbba3" name="Default Changelist" comment="app">
-      <change beforePath="$PROJECT_DIR$/.idea/Laravel5.8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Laravel5.8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+    <list default="true" id="749464aa-709d-49b5-8166-fa70696cbba3" name="Default Changelist" comment="composer">
+      <change beforePath="$PROJECT_DIR$/database/factories/BlogPostFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/BlogPostFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_25_090851_create_blog_categories_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_25_090851_create_blog_categories_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_25_091534_create_blog_posts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_25_091534_create_blog_posts_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/BlogCategoriesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/BlogCategoriesTableSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -169,7 +168,16 @@
       <option name="presentableId" value="Default" />
       <updated>1605104968442</updated>
       <workItem from="1605104969622" duration="721000" />
+      <workItem from="1605170204464" duration="1483000" />
     </task>
+    <task id="LOCAL-00001" summary="composer">
+      <created>1605170287141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605170287141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +194,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="composer" />
+    <option name="LAST_COMMIT_MESSAGE" value="composer" />
   </component>
   <component name="WindowStateProjectService">
     <state x="106" y="174" key="CommitChangelistDialog2" timestamp="1605101702169">
